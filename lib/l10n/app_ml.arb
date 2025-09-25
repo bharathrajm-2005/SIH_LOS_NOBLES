@@ -1,0 +1,62 @@
+{
+  "@@locale": "ml",
+  "appName": "വിള ഉപദേഷ്ടാവ്",
+  "home": "ഹോം",
+  "aiAssistant": "AI സഹായി",
+  "pestDetection": "കീട കണ്ടെത്തൽ",
+  "weather": "കാലാവസ്ഥ",
+  "schemes": "സർക്കാർ പദ്ധതികൾ",
+  "profile": "പ്രൊഫൈൽ",
+  "settings": "ക്രമീകരണങ്ങൾ",
+  "language": "ഭാഷ",
+  "selectLanguage": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+  
+  "welcomeMessage": "വിള ഉപദേഷ്ടാവിലേക്ക് സ്വാഗതം",
+  "dashboardTitle": "കൃഷി ഡാഷ്‌ബോർഡ്",
+  "todaysWeather": "ഇന്നത്തെ കാലാവസ്ഥ",
+  "quickActions": "പെട്ടെന്നുള്ള പ്രവർത്തനങ്ങൾ",
+  "featuredSchemes": "പ്രധാന പദ്ധതികൾ",
+  
+  "cropAdvice": "വിള ഉപദേശം",
+  "weatherForecast": "കാലാവസ്ഥ പ്രവചനം",
+  "governmentSchemes": "സർക്കാർ പദ്ധതികൾ",
+  "pestControl": "കീട നിയന്ത്രണം",
+  "soilHealth": "മണ്ണിന്റെ ആരോഗ്യം",
+  "irrigation": "ജലസേചനം",
+  
+  "askAboutFarming": "കൃഷി, വിളകൾ, കാലാവസ്ഥ എന്നിവയെക്കുറിച്ച് ചോദിക്കുക...",
+  "aiThinking": "AI ചിന്തിക്കുന്നു",
+  "sendMessage": "സന്ദേശം അയയ്ക്കുക",
+  "clearChat": "ചാറ്റ് ക്ലിയർ ചെയ്യുക",
+  
+  "takePhoto": "ഫോട്ടോ എടുക്കുക",
+  "selectFromGallery": "ഗ്യാലറിയിൽ നിന്ന് തിരഞ്ഞെടുക്കുക",
+  "analyzeImage": "ചിത്രം വിശകലനം ചെയ്യുക",
+  "analyzing": "വിശകലനം ചെയ്യുന്നു...",
+  
+  "temperature": "താപനില",
+  "humidity": "ആർദ്രത",
+  "windSpeed": "കാറ്റിന്റെ വേഗത",
+  "feelsLike": "അനുഭവപ്പെടുന്നു",
+  "visibility": "ദൃശ്യപരത",
+  
+  "eligibility": "യോഗ്യത",
+  "benefits": "ആനുകൂല്യങ്ങൾ",
+  "documents": "ആവശ്യമായ രേഖകൾ",
+  "applyOnline": "ഓൺലൈൻ അപേക്ഷിക്കുക",
+  "contactInfo": "ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ",
+  
+  "searchSchemes": "പദ്ധതികൾ തിരയുക...",
+  "noSchemesFound": "പദ്ധതികളൊന്നും കണ്ടെത്തിയില്ല",
+  "retry": "വീണ്ടും ശ്രമിക്കുക",
+  "loading": "ലോഡുചെയ്യുന്നു...",
+  "error": "പിശക്",
+  
+  "locationPermission": "സ്ഥാന അനുമതി",
+  "cameraPermission": "ക്യാമറ അനുമതി",
+  "storagePermission": "സ്റ്റോറേജ് അനുമതി",
+  
+  "networkError": "നെറ്റ്‌വർക്ക് കണക്ഷൻ പരാജയപ്പെട്ടു",
+  "tryAgain": "വീണ്ടും ശ്രമിക്കുക",
+  "success": "വിജയം"
+}

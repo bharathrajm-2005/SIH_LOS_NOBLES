@@ -1,0 +1,62 @@
+{
+  "@@locale": "pa",
+  "appName": "ਫਸਲ ਸਲਾਹਕਾਰ",
+  "home": "ਮੁੱਖ",
+  "aiAssistant": "AI ਸਹਾਇਕ",
+  "pestDetection": "ਕੀਟ ਪਛਾਣ",
+  "weather": "ਮੌਸਮ",
+  "schemes": "ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ",
+  "profile": "ਪ੍ਰੋਫਾਈਲ",
+  "settings": "ਸੈਟਿੰਗਜ਼",
+  "language": "ਭਾਸ਼ਾ",
+  "selectLanguage": "ਭਾਸ਼ਾ ਚੁਣੋ",
+  
+  "welcomeMessage": "ਫਸਲ ਸਲਾਹਕਾਰ ਵਿੱਚ ਜੀ ਆਇਆਂ ਨੂੰ",
+  "dashboardTitle": "ਖੇਤੀਬਾੜੀ ਡੈਸ਼ਬੋਰਡ",
+  "todaysWeather": "ਅੱਜ ਦਾ ਮੌਸਮ",
+  "quickActions": "ਤੁਰੰਤ ਕਾਰਵਾਈਆਂ",
+  "featuredSchemes": "ਮੁੱਖ ਯੋਜਨਾਵਾਂ",
+  
+  "cropAdvice": "ਫਸਲ ਸਲਾਹ",
+  "weatherForecast": "ਮੌਸਮ ਪੂਰਵ ਅਨੁਮਾਨ",
+  "governmentSchemes": "ਸਰਕਾਰੀ ਯੋਜਨਾਵਾਂ",
+  "pestControl": "ਕੀਟ ਨਿਯੰਤਰਣ",
+  "soilHealth": "ਮਿੱਟੀ ਸਿਹਤ",
+  "irrigation": "ਸਿੰਚਾਈ",
+  
+  "askAboutFarming": "ਖੇਤੀਬਾੜੀ, ਫਸਲਾਂ, ਮੌਸਮ ਬਾਰੇ ਪੁੱਛੋ...",
+  "aiThinking": "AI ਸੋਚ ਰਿਹਾ ਹੈ",
+  "sendMessage": "ਸੰਦੇਸ਼ ਭੇਜੋ",
+  "clearChat": "ਚੈਟ ਸਾਫ਼ ਕਰੋ",
+  
+  "takePhoto": "ਫੋਟੋ ਖਿੱਚੋ",
+  "selectFromGallery": "ਗੈਲਰੀ ਤੋਂ ਚੁਣੋ",
+  "analyzeImage": "ਤਸਵੀਰ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰੋ",
+  "analyzing": "ਵਿਸ਼ਲੇਸ਼ਣ ਹੋ ਰਿਹਾ ਹੈ...",
+  
+  "temperature": "ਤਾਪਮਾਨ",
+  "humidity": "ਨਮੀ",
+  "windSpeed": "ਹਵਾ ਦੀ ਗਤੀ",
+  "feelsLike": "ਮਹਿਸੂਸ ਹੋ ਰਿਹਾ ਹੈ",
+  "visibility": "ਦਿੱਖ",
+  
+  "eligibility": "ਯੋਗਤਾ",
+  "benefits": "ਫਾਇਦੇ",
+  "documents": "ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼",
+  "applyOnline": "ਔਨਲਾਈਨ ਅਰਜ਼ੀ ਦਿਓ",
+  "contactInfo": "ਸੰਪਰਕ ਜਾਣਕਾਰੀ",
+  
+  "searchSchemes": "ਯੋਜਨਾਵਾਂ ਖੋਜੋ...",
+  "noSchemesFound": "ਕੋਈ ਯੋਜਨਾ ਨਹੀਂ ਮਿਲੀ",
+  "retry": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+  "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+  "error": "ਗਲਤੀ",
+  
+  "locationPermission": "ਸਥਾਨ ਇਜਾਜ਼ਤ",
+  "cameraPermission": "ਕੈਮਰਾ ਇਜਾਜ਼ਤ",
+  "storagePermission": "ਸਟੋਰੇਜ ਇਜਾਜ਼ਤ",
+  
+  "networkError": "ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਅਸਫਲ",
+  "tryAgain": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+  "success": "ਕਾਮਯਾਬੀ"
+}

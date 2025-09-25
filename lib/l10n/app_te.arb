@@ -1,0 +1,62 @@
+{
+  "@@locale": "te",
+  "appName": "పంట సలహాదారు",
+  "home": "ముఖ్యపేజీ",
+  "aiAssistant": "AI సహాయకుడు",
+  "pestDetection": "పెస్ట్ గుర్తింపు",
+  "weather": "వాతావరణం",
+  "schemes": "ప్రభుత్వ పథకాలు",
+  "profile": "ప్రొఫైల్",
+  "settings": "సెట్టింగ్‌లు",
+  "language": "భాష",
+  "selectLanguage": "భాషను ఎంచుకోండి",
+  
+  "welcomeMessage": "పంట సలహాదారుకు స్వాగతం",
+  "dashboardTitle": "వ్యవసాయ డాష్‌బోర్డ్",
+  "todaysWeather": "నేటి వాతావరణం",
+  "quickActions": "శీఘ్ర చర్యలు",
+  "featuredSchemes": "ముఖ్య పథకాలు",
+  
+  "cropAdvice": "పంట సలహా",
+  "weatherForecast": "వాతావరణ సూచన",
+  "governmentSchemes": "ప్రభుత్వ పథకాలు",
+  "pestControl": "పెస్ట్ నియంత్రణ",
+  "soilHealth": "మట్టి ఆరోగ్యం",
+  "irrigation": "నీటిపారుదల",
+  
+  "askAboutFarming": "వ్యవసాయం, పంటలు, వాతావరణం గురించి అడగండి...",
+  "aiThinking": "AI ఆలోచిస్తోంది",
+  "sendMessage": "సందేశం పంపండి",
+  "clearChat": "చాట్ క్లియర్ చేయండి",
+  
+  "takePhoto": "ఫోటో తీయండి",
+  "selectFromGallery": "గ్యాలరీ నుంచి ఎంచుకోండి",
+  "analyzeImage": "చిత్రాన్ని విశ్లేషించండి",
+  "analyzing": "విశ్లేషిస్తోంది...",
+  
+  "temperature": "ఉష్ణోగ్రత",
+  "humidity": "తేమ",
+  "windSpeed": "గాలి వేగం",
+  "feelsLike": "అనిపిస్తుంది",
+  "visibility": "దృశ్యత",
+  
+  "eligibility": "అర్హత",
+  "benefits": "ప్రయోజనాలు",
+  "documents": "అవసరమైన పత్రాలు",
+  "applyOnline": "ఆన్‌లైన్‌లో దరఖాస్తు చేయండి",
+  "contactInfo": "సంప్రదింపు సమాచారం",
+  
+  "searchSchemes": "పథకాలను వెతకండి...",
+  "noSchemesFound": "పథకాలు దొరకలేదు",
+  "retry": "మళ్లీ ప్రయత్నించండి",
+  "loading": "లోడ్ అవుతోంది...",
+  "error": "లోపం",
+  
+  "locationPermission": "స్థాన అనుమతి",
+  "cameraPermission": "కెమెరా అనుమతి",
+  "storagePermission": "నిల్వ అనుమతి",
+  
+  "networkError": "నెట్‌వర్క్ కనెక్షన్ విఫలమైంది",
+  "tryAgain": "మళ్లీ ప్రయత్నించండి",
+  "success": "విజయం"
+}

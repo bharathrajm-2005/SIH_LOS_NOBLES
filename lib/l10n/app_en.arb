@@ -1,0 +1,62 @@
+{
+  "@@locale": "en",
+  "appName": "CropAdvisor",
+  "home": "Home",
+  "aiAssistant": "AI Assistant",
+  "pestDetection": "Pest Detection",
+  "weather": "Weather",
+  "schemes": "Government Schemes",
+  "profile": "Profile",
+  "settings": "Settings",
+  "language": "Language",
+  "selectLanguage": "Select Language",
+  
+  "welcomeMessage": "Welcome to CropAdvisor",
+  "dashboardTitle": "Farming Dashboard",
+  "todaysWeather": "Today's Weather",
+  "quickActions": "Quick Actions",
+  "featuredSchemes": "Featured Schemes",
+  
+  "cropAdvice": "Crop Advice",
+  "weatherForecast": "Weather Forecast",
+  "governmentSchemes": "Government Schemes",
+  "pestControl": "Pest Control",
+  "soilHealth": "Soil Health",
+  "irrigation": "Irrigation",
+  
+  "askAboutFarming": "Ask about farming, crops, weather...",
+  "aiThinking": "AI is thinking",
+  "sendMessage": "Send Message",
+  "clearChat": "Clear Chat",
+  
+  "takePhoto": "Take Photo",
+  "selectFromGallery": "Select from Gallery",
+  "analyzeImage": "Analyze Image",
+  "analyzing": "Analyzing...",
+  
+  "temperature": "Temperature",
+  "humidity": "Humidity",
+  "windSpeed": "Wind Speed",
+  "feelsLike": "Feels Like",
+  "visibility": "Visibility",
+  
+  "eligibility": "Eligibility",
+  "benefits": "Benefits",
+  "documents": "Documents Required",
+  "applyOnline": "Apply Online",
+  "contactInfo": "Contact Information",
+  
+  "searchSchemes": "Search schemes...",
+  "noSchemesFound": "No schemes found",
+  "retry": "Retry",
+  "loading": "Loading...",
+  "error": "Error",
+  
+  "locationPermission": "Location Permission",
+  "cameraPermission": "Camera Permission",
+  "storagePermission": "Storage Permission",
+  
+  "networkError": "Network connection failed",
+  "tryAgain": "Try Again",
+  "success": "Success"
+}

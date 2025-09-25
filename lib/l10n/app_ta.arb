@@ -1,0 +1,62 @@
+{
+  "@@locale": "ta",
+  "appName": "பயிர் ஆலோசகர்",
+  "home": "முகப்பு",
+  "aiAssistant": "AI உதவியாளர்",
+  "pestDetection": "பூச்சி கண்டறிதல்",
+  "weather": "வானிலை",
+  "schemes": "அரசு திட்டங்கள்",
+  "profile": "சுயவிவரம்",
+  "settings": "அமைப்புகள்",
+  "language": "மொழி",
+  "selectLanguage": "மொழியைத் தேர்ந்தெடுக்கவும்",
+  
+  "welcomeMessage": "பயிர் ஆலோசகருக்கு வரவேற்கிறோம்",
+  "dashboardTitle": "விவசாய டாஷ்போர்டு",
+  "todaysWeather": "இன்றைய வானிலை",
+  "quickActions": "விரைவு செயல்கள்",
+  "featuredSchemes": "முக்கிய திட்டங்கள்",
+  
+  "cropAdvice": "பயிர் ஆலோசனை",
+  "weatherForecast": "வானிலை முன்னறிவிப்பு",
+  "governmentSchemes": "அரசு திட்டங்கள்",
+  "pestControl": "பூச்சி கட்டுப்பாடு",
+  "soilHealth": "மண் ஆரோக்கியம்",
+  "irrigation": "நீர்ப்பாசனம்",
+  
+  "askAboutFarming": "விவசாயம், பயிர்கள், வானிலை பற்றி கேளுங்கள்...",
+  "aiThinking": "AI சிந்திக்கிறது",
+  "sendMessage": "செய்தி அனுப்பவும்",
+  "clearChat": "அரட்டையை அழிக்கவும்",
+  
+  "takePhoto": "புகைப்படம் எடுக்கவும்",
+  "selectFromGallery": "கேலரியில் இருந்து தேர்ந்தெடுக்கவும்",
+  "analyzeImage": "படத்தை பகுப்பாய்வு செய்யவும்",
+  "analyzing": "பகுப்பாய்வு செய்கிறது...",
+  
+  "temperature": "வெப்பநிலை",
+  "humidity": "ஈரப்பதம்",
+  "windSpeed": "காற்றின் வேகம்",
+  "feelsLike": "உணரப்படும்",
+  "visibility": "பார்வை",
+  
+  "eligibility": "தகுதி",
+  "benefits": "பலன்கள்",
+  "documents": "தேவையான ஆவணங்கள்",
+  "applyOnline": "ஆன்லைனில் விண்ணப்பிக்கவும்",
+  "contactInfo": "தொடர்பு தகவல்",
+  
+  "searchSchemes": "திட்டங்களைத் தேடுங்கள்...",
+  "noSchemesFound": "திட்டங்கள் எதுவும் கிடைக்கவில்லை",
+  "retry": "மீண்டும் முயற்சிக்கவும்",
+  "loading": "ஏற்றுகிறது...",
+  "error": "பிழை",
+  
+  "locationPermission": "இடம் அனுமதி",
+  "cameraPermission": "கேமரா அனுமதி",
+  "storagePermission": "சேமிப்பக அனுமதி",
+  
+  "networkError": "நெட்வொர்க் இணைப்பு தோல்வி",
+  "tryAgain": "மீண்டும் முயற்சிக்கவும்",
+  "success": "வெற்றி"
+}

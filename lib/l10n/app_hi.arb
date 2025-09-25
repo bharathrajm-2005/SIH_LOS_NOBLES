@@ -1,0 +1,62 @@
+{
+  "@@locale": "hi",
+  "appName": "फसल सलाहकार",
+  "home": "मुख्य",
+  "aiAssistant": "AI सहायक",
+  "pestDetection": "कीट पहचान",
+  "weather": "मौसम",
+  "schemes": "सरकारी योजनाएं",
+  "profile": "प्रोफाइल",
+  "settings": "सेटिंग्स",
+  "language": "भाषा",
+  "selectLanguage": "भाषा चुनें",
+  
+  "welcomeMessage": "फसल सलाहकार में आपका स्वागत है",
+  "dashboardTitle": "किसानी डैशबोर्ड",
+  "todaysWeather": "आज का मौसम",
+  "quickActions": "त्वरित कार्य",
+  "featuredSchemes": "मुख्य योजनाएं",
+  
+  "cropAdvice": "फसल सलाह",
+  "weatherForecast": "मौसम पूर्वानुमान",
+  "governmentSchemes": "सरकारी योजनाएं",
+  "pestControl": "कीट नियंत्रण",
+  "soilHealth": "मिट्टी स्वास्थ्य",
+  "irrigation": "सिंचाई",
+  
+  "askAboutFarming": "किसानी, फसलों, मौसम के बारे में पूछें...",
+  "aiThinking": "AI सोच रहा है",
+  "sendMessage": "संदेश भेजें",
+  "clearChat": "चैट साफ करें",
+  
+  "takePhoto": "फोटो लें",
+  "selectFromGallery": "गैलरी से चुनें",
+  "analyzeImage": "छवि का विश्लेषण करें",
+  "analyzing": "विश्लेषण हो रहा है...",
+  
+  "temperature": "तापमान",
+  "humidity": "आर्द्रता",
+  "windSpeed": "हवा की गति",
+  "feelsLike": "महसूस होता है",
+  "visibility": "दृश्यता",
+  
+  "eligibility": "पात्रता",
+  "benefits": "लाभ",
+  "documents": "आवश्यक दस्तावेज",
+  "applyOnline": "ऑनलाइन आवेदन करें",
+  "contactInfo": "संपर्क जानकारी",
+  
+  "searchSchemes": "योजनाएं खोजें...",
+  "noSchemesFound": "कोई योजना नहीं मिली",
+  "retry": "पुनः प्रयास करें",
+  "loading": "लोड हो रहा है...",
+  "error": "त्रुटि",
+  
+  "locationPermission": "स्थान अनुमति",
+  "cameraPermission": "कैमरा अनुमति",
+  "storagePermission": "स्टोरेज अनुमति",
+  
+  "networkError": "नेटवर्क कनेक्शन विफल",
+  "tryAgain": "पुनः प्रयास करें",
+  "success": "सफलता"
+}

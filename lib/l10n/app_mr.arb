@@ -1,0 +1,62 @@
+{
+  "@@locale": "mr",
+  "appName": "पीक सल्लागार",
+  "home": "मुख्य",
+  "aiAssistant": "AI सहाय्यक",
+  "pestDetection": "कीटक शोध",
+  "weather": "हवामान",
+  "schemes": "सरकारी योजना",
+  "profile": "प्रोफाइल",
+  "settings": "सेटिंग्ज",
+  "language": "भाषा",
+  "selectLanguage": "भाषा निवडा",
+  
+  "welcomeMessage": "पीक सल्लागारात आपले स्वागत आहे",
+  "dashboardTitle": "शेती डॅशबोर्ड",
+  "todaysWeather": "आजचे हवामान",
+  "quickActions": "त्वरित क्रिया",
+  "featuredSchemes": "मुख्य योजना",
+  
+  "cropAdvice": "पीक सल्ला",
+  "weatherForecast": "हवामान अंदाज",
+  "governmentSchemes": "सरकारी योजना",
+  "pestControl": "कीटक नियंत्रण",
+  "soilHealth": "माती आरोग्य",
+  "irrigation": "सिंचन",
+  
+  "askAboutFarming": "शेती, पिके, हवामान बद्दल विचारा...",
+  "aiThinking": "AI विचार करत आहे",
+  "sendMessage": "संदेश पाठवा",
+  "clearChat": "चॅट साफ करा",
+  
+  "takePhoto": "फोटो घ्या",
+  "selectFromGallery": "गॅलरी मधून निवडा",
+  "analyzeImage": "प्रतिमा विश्लेषण करा",
+  "analyzing": "विश्लेषण करत आहे...",
+  
+  "temperature": "तापमान",
+  "humidity": "आर्द्रता",
+  "windSpeed": "वाऱ्याचा वेग",
+  "feelsLike": "जाणवते",
+  "visibility": "दृश्यता",
+  
+  "eligibility": "पात्रता",
+  "benefits": "फायदे",
+  "documents": "आवश्यक कागदपत्रे",
+  "applyOnline": "ऑनलाइन अर्ज करा",
+  "contactInfo": "संपर्क माहिती",
+  
+  "searchSchemes": "योजना शोधा...",
+  "noSchemesFound": "कोणतीही योजना सापडली नाही",
+  "retry": "पुन्हा प्रयत्न करा",
+  "loading": "लोड होत आहे...",
+  "error": "त्रुटी",
+  
+  "locationPermission": "स्थान परवानगी",
+  "cameraPermission": "कॅमेरा परवानगी",
+  "storagePermission": "स्टोरेज परवानगी",
+  
+  "networkError": "नेटवर्क कनेक्शन अयशस्वी",
+  "tryAgain": "पुन्हा प्रयत्न करा",
+  "success": "यश"
+}
